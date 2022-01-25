@@ -1,0 +1,15 @@
+para ma run sa pc...
+
+ 1.open ang "VisualBoyAdvance.exe" na application
+
+ 2.i click file mula sa menu bar at i click ang "open..."
+
+ 3.i open mo ang file "game.gb" mula sa "Play_N_Learn" na folder, ito ang directory "Play_N_Learn/game.gb"
+
+para sa mobile phone...
+
+ 1.i install and application na "myoldboy free" sa playstore
+
+ 2. i copy ang buong folder ng "Play_N_Learn" sa iyong phone
+
+ 3. i open ang "myoldboy" na application at i open mo ang file na "game.gb" mula sa "Play_N_Learn" na folder, ito ang directory "Play_N_Learn/game.gb"
